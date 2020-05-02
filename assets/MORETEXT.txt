@@ -1,0 +1,44 @@
+Turbulence omnipresent in everyday life: from mixing coffee and milk, to the complicated processes occurring in combustion engines as well as in cloud dynamics. But these turbulent motions can hardly be predicted and turbulence, in one aspect or another, remains unsolved.
+
+In general terms, the mission of the research group is to complement large-scale studies of geophysical flows, like those based on general circulation models (GCM) or large eddy simulations (LES), by means of focusing on the investigation of small-scale phenomena using direct numerical simulation (DNS).  The resolved length scales range from millimeters to meters, DNS being therefore at the end of the hierarchy GCM-LES-DNS.
+
+More specifically, the objective is to identify those regions of the planet where the local turbulent mixing processes are believed to play a fundamental role, derive simplified archetypal problems that contain some of the essential physics of the original system, perform direct numerical simulations of them and analyze the data in terms of that reduced set of non-dimensional parameters.
+
+As outcome, we should be able to better understand the problem, for instance: time scales associated with transients; transfer rates of mass (constituents), momentum and energy; or the contribution of turbulent transport to those transfer rates. The results will assist the development and validation (reference cases) of different models.
+
+Still, we need to simplify the problem at some stage, and our approach is to reduce complexity while retaining a broad range of spatial and temporal scales. We derive simplified archetypal problems that still contain the essential physics that we want to understand from the original system, and exploit dimensional analysis to reduce the number of independent parameters that define the problem. Simulations give us then a direct measurement of turbulent flow properties, such as mean values, transfer rates, spectra, correlations or probability distribution functions, and we can use that information to understand the dynamics of the system in terms of dominant balances, scaling laws and parametrizations, or time scales associated with transients. Scaling laws are particularly valuable because they allow us to extend the results beyond the specific simulations that we perform, and draw conclusions that are applicable to the atmosphere and to the ocean.
+
+---
+
+Complement larger scales studies:
+
+GCM - LES - DNS
+
+Geophysical flows are associated with very large length scales, and this often reflects in the approach adopted to study them: we try to calculate these large scale motions and whatever is ``too small'' to be resolved is put together in a bag and tagged as ``requiring modelling''.
+
+That is perfectly fine in many situations, but it is becoming more and more evident that there are certain configuration in which small scale phenomena play a decisive role.
+
+The TMP group focus on these small scale phenomena, trying to complement LES-GCM in a reasonable fashion.
+
+Originated in collaboration with B. Stevens, through the Metstroem program, to study turbulent mixing at stratocumulus tops.
+Mixing at the cloud boundaries.
+Penetrative convection; getting the time scales right and understanding its dependence on the parameters (diurnal cycle w/ dry and moist air, upper ocean mixing layer). Turbulent mixing across a strong inversion layer, the interplay with gravity waves.
+
+- understand time scales associated with transtients
+- understand transfer rates of mass, momentum and energy across the region
+- in particular, turbulent transport of mass, momentum and energy (Reynolds
+- stresses in RANS, subgrid stresses in LES)
+- anisotropy, gradient transport hypothesis
+
+---
+
+For that purpose, we need to identify those regions of the earth system where the local turbulent mixing processes are believed to play a relevant role, derive simplified archetypal problems that contain some of the essential physics of the original system and perform DNS of them.
+
+At the same time, those same simulations constitute reference cases to low-order models.
+
+In this respect, turbulence shows some mercy because some important statistics are known to become approximately independent of the scale separation (or number of degrees of freedom) beyond some cross-over value. Computing capabilities are reaching this critical value.
+
+---
+
+research tool vs brute force solution of real life
+fundamental turbulence vs geophysical applications/motivation
